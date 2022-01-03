@@ -1,0 +1,36 @@
+{
+  "$schema": "http://mekschemas.netlify.app/modpackager/v1/",
+  "SkyrimSEInstallPath": "D:\\Steam\\steamapps\\common\\Skyrim Special Edition",
+  "UnfuzerPath": "D:\\Steam\\steamapps\\common\\Skyrim Special Edition\\Tools\\unfuzer",
+  "ModInfo": {
+    "Name": "Chairrows (Chair Arrows)",
+    "Version": "1.0.0",
+    "Author": "Mark E. Kraus",
+    "Description": "Adds Chairrows (Chair Arrows) to Skyrim.",
+    "Website": "https://www.nexusmods.com/skyrimspecialedition/mods/61168",
+    "Category": "Weapons",
+    "Logo": "logo.png"
+  },
+  "Plugin":"MarkekrausChairrows.esp",
+  "Scripts": [
+  ],
+  "Meshes": [
+    "weapons\\chairrows\\DaedricChairrow.nif",
+    "weapons\\chairrows\\DaedricChairrowFlight.nif",
+    "weapons\\chairrows\\DwarvenChairrow.nif",
+    "weapons\\chairrows\\DwarvenChairrowFlight.nif",
+    "weapons\\chairrows\\EbonyChairrow.nif",
+    "weapons\\chairrows\\EbonyChairrowFlight.nif",
+    "weapons\\chairrows\\ElvenChairrow.nif",
+    "weapons\\chairrows\\ElvenChairrowFlight.nif",
+    "weapons\\chairrows\\GlassChairrow.nif",
+    "weapons\\chairrows\\GlassChairrowFlight.nif",
+    "weapons\\chairrows\\IronChairrow.nif",
+    "weapons\\chairrows\\IronChairrowFlight.nif",
+    "weapons\\chairrows\\OrcishChairrow.nif",
+    "weapons\\chairrows\\OrcishChairrowFlight.nif",
+    "weapons\\chairrows\\SteelChairrow.nif",
+    "weapons\\chairrows\\SteelChairrowFlight.nif"
+  ],
+  "PackageName": "MarkekrausChairrows.7z"
+}
