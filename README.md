@@ -35,7 +35,7 @@ Each Chairrow is made to correspond to an equivalent vanilla arrow.
 
 ### Requirements
 
-This mod has no requirements or dependencies.
+This mod requires [SKSE](https://skse.silverlock.org/)
 
 ### Recommended
 
@@ -59,7 +59,9 @@ This mod can be installed in any order.
 
 Chairrows can be crafted at a blacksmith's forge using the same materials as normal arrows of the same type. Chairrows are equipped like normal arrows and can be fired the sae as well.
 
-Chairrows are not yet sold by vendors (coming soon).
+Chairrows can also be bought from general goods vendors, blacksmiths, and any other vendors that normally sell arrows.
+
+Enemies may also be armed with chairrows. They may attack you with them or you may find them on their dead bodies.
 
 ## Jank Warning
 
@@ -70,6 +72,8 @@ This is just a visual oddity. It has no impact on game play.
 ## Compatibility
 
 This mod should be compatible with everything.
+
+This mod has scripted compatibility with [Valdacil's Item Sorting](https://www.nexusmods.com/skyrimspecialedition/mods/5224). No patch is required.
 
 ## Warning: Not Lore-Friendly and Swearing
 

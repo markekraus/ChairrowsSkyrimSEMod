@@ -33,6 +33,7 @@
                             <description>Installs script sources.</description>
                             <image path="logo.png" />
                             <files>
+                                <file source="source\scripts\MEKCAModInitialization.psc" destination="source\scripts\MEKCAModInitialization.psc" priority="0" />
                             </files>
                             <typeDescriptor> 
                                 <type name="Optional"/> 
